@@ -65,12 +65,13 @@ h1, h2, h3, h4, h5 {
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
-.head{
+.head {
 display: flex;
 justify-content: space-around;
-	
-
+align-items: center;
 }
+
+
 nav a {
 	color:grey;
 	font-size: 12px;
@@ -83,7 +84,7 @@ nav a {
 	 display: flex;
 	 font-size: 50px;
 	 align-items: center;
-	margin-top: 8%
+	margin-top: 8%;
 	margin-bottom: 8%;
 	
  }
@@ -97,6 +98,7 @@ nav a {
 .bottom-content{
 	display: flex;
 	justify-content: space-around
+
 	}
 
 
