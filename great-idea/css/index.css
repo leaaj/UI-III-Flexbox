@@ -79,6 +79,10 @@ nav a {
 	text-decoration: none;
 	}
 
+	.top1{
+		width: 50%;
+
+	}
 
  .slogan{
 	 display: flex;
@@ -120,4 +124,26 @@ footer{
 	display: flex;
 	justify-content:center;
 	margin-top: 10%
+}
+
+
+
+
+
+
+.top-row{
+	display:flex;
+	border:1px solid grey
+	
+}
+
+.row2{
+	display:flex;
+	border:1px solid grey
+	
+}
+
+.row3{
+	display:flex;
+	border:1px solid grey
 }
