@@ -31,9 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
-	list-style: none;
-}
+
 blockquote, q {
 	quotes: none;
 }
@@ -133,8 +131,9 @@ footer{
 
 .top-row{
 	display:flex;
-	border:1px solid grey
+	border:1px solid grey;
 	
+	 
 }
 
 .row2{
@@ -147,3 +146,20 @@ footer{
 	display:flex;
 	border:1px solid grey
 }
+
+.grid{
+	border: 1px solid grey;
+	width: 50;
+	margin: 1%;
+	padding: 10px;
+}
+
+.bottom{
+	display: flex;
+
+	
+}
+
+ul {
+	list-style-position: inside;
+  }
